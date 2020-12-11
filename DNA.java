@@ -3,6 +3,9 @@ public class DNA
 {
   public static void main(String[] args)
   {
+    /* Sample DNA pattern 
+     DNA should start with codon ATG, the stop codon TGA, and the length is divisible by 3 to know it is a protein
+     */
      //  -. .-.   .-. .-.   .
     //    \   \ /   \   \ / 
     //   / \   \   / \   \  
